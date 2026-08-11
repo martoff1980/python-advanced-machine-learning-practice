@@ -20,7 +20,7 @@ The such app may look next:
 
 **Steps to complete the task**:
 
-1. Choose one of the datasets from ![here](https://www.kaggle.com/datasets?search=image&tags=13302-Classification).
+1. Choose one of the datasets from [here](https://www.kaggle.com/datasets?search=image&tags=13302-Classification).
 2. Prepare data for Training (remove not necessary fields, get labels for each image, and preprocess images).
 3. Train & evaluate the model using the Google Colab service.
 4. Download that model locally.
@@ -53,3 +53,10 @@ them (if needed) and just try to feed this data to the ML algorithm and get the 
 
 Predicting if it's a cat or dog on an image is quite interesting, but with more label classes the complexity may grow a bit. Try datasets with more than 2 classes, and check, if the accuracy decreases
 significantly or not.
+
+<!-- **Notes**:
+
+- Try to be creative, and choose the dataset you like.
+- Split the logic of classifying image and front-end part.
+- Create a beautiful layout - so images in the README.md file are great.
+- Feel free to use some advanced image classification tools (if needed). -->
